@@ -5,3 +5,5 @@ To be able to run the first assignment, you would need to download the School of
 The SOE library needs to put in the same folder as the hw1 folder. Alternatively, the SOEPATH variable can be modified in the Makefile for hw1 appropriately.
 
 You may also need to install certain packages using cabal to be able to compile some assignments. 
+
+For the final, you need Liquid Haskell.
